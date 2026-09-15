@@ -84,8 +84,10 @@ routes = [
 在 Twikoo 管理面板中将 `GRAVATAR_CDN` 设置为：
 
 ```
-https://your.domain/avatar
+your.domain
 ```
+
+注意这里不要携带协议头（如 `https://`）
 
 ## 管理接口
 
